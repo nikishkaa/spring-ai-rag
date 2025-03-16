@@ -1,4 +1,4 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.ai.vectorstore.SimpleVectorStore;

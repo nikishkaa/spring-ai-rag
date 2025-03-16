@@ -1,4 +1,4 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 import java.io.File;
 

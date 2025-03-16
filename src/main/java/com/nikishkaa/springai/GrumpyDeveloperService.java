@@ -1,4 +1,4 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;

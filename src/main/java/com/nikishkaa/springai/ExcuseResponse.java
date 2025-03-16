@@ -1,3 +1,3 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 public record ExcuseResponse(String message) {}

@@ -1,4 +1,4 @@
-package com.soturit.springai;
+package com.nikishkaa.springai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
