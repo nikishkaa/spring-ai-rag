@@ -1,5 +1,5 @@
 # Spring AI demos and tutorials
-
+https://www.youtube.com/watch?v=jClr5LtQFIQ
 This repository contains a collection of AI demos and tutorials using Spring Boot.
 
 ## How to use?
@@ -7,9 +7,11 @@ This repository contains a collection of AI demos and tutorials using Spring Boo
 1. Clone the repository
 2. Open the project in your favorite IDE
 3. Setup OpenAI API key in `application.properties` or by defining env variable `OPENAI_API_KEY`
+   (Можно сделать с ollama как в примере)
 4. Run the project using `./mvnw spring-boot:run`
 
 Then use the browser to call the apis (or watch the logs for the output for the 1st episode).
+http://localhost:8080/ragclient?query= НАШ ЗАПРОС
 
 ## What is in here?
 
