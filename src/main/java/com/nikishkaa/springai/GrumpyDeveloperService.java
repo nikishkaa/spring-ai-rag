@@ -16,6 +16,7 @@ public class GrumpyDeveloperService {
         return chatClient.prompt("Give me a sarcastic excuse for missing a deadline.").call().content();
     }
 
+
     public String getExcuseFor(String reason) {
         var chatClient = chatClientBuilder.build();
         var prompt = String.format("Give me a sarcastic excuse for %s.", reason);
